@@ -60,7 +60,7 @@ Prüfkriterium: In Moodle erscheint für jeden Pflichttest ein abgegebener Versu
 
 ### 2. Teamprojekt: Regression mit Prozessmodell und Streamlit
 
-Vollständige Beschreibung: [Analyseprojekt](https://data-analytics-ws2627.github.io/website/project-description.html). Vorbereitung in vier Schritten: [Projektvorbereitung](https://data-analytics-ws2627.github.io/website/project-planning.html). Vorlage: [data-analytics-ws2627/project](https://github.com/data-analytics-ws2627/project) (GitHub-Template, eigene private Kopie anlegen).
+Vollständige Beschreibung: [Analyseprojekt](https://kirenz.github.io/data-analytics-ws2627/project-description.html). Vorbereitung in vier Schritten: [Projektvorbereitung](https://kirenz.github.io/data-analytics-ws2627/project-planning.html). Vorlage: [data-analytics-ws2627/project](https://github.com/data-analytics-ws2627/project) (GitHub-Template, eigene private Kopie anlegen).
 
 Kern: Eine quantitative Zielvariable wird mit einer Regression vorhergesagt. Die Vorhersage unterstützt eine Entscheidung in einem selbst gewählten Geschäftsprozess. Die Entscheidung trifft ein Mensch. Klassifikation gehört nicht zu den Projektanforderungen.
 
@@ -76,14 +76,14 @@ Bestandteile:
 
 | Baustein | Inhalt | Quelle |
 |---|---|---|
-| Datenauswahl | Zwei mögliche Datensätze mit Quelle, Beobachtungseinheit, Variablen und einer konkreten Frage | [Datenauswahl](https://data-analytics-ws2627.github.io/website/project-description.html#datenauswahl), [Datenquellen](https://data-analytics-ws2627.github.io/website/project-tips-resources.html) |
-| Projektvorschlag | Einordnung, Daten, Analyseplan, Variablenverzeichnis | [Projektvorschlag](https://data-analytics-ws2627.github.io/website/project-description.html#projektvorschlag) |
-| Analyseentwurf | Erste vollständige Analyse: Exploration, Trainings-/Testaufteilung, Baseline, lineares Modell, MAE und RMSE, vorläufiges Ergebnis | [Analyseentwurf](https://data-analytics-ws2627.github.io/website/project-description.html#analyseentwurf) |
-| BPMN-Skizze (verbindlich) | Auslöser, Aufgaben, Zuständigkeiten, Prüfschritt durch eine Person, Rückweg bei ungeeigneten Daten; Abwägung feste Regeln, KI-Schritt oder Agent | [Prozessmodell](https://data-analytics-ws2627.github.io/website/project-description.html#geschäftsprozess-und-prozessmodell), Arbeitsblatt `docs/prozessmodell.md` in der Vorlage |
-| Streamlit-Oberfläche (verbindlich) | Lokal startbar; zeigt Datenquelle, Zielvariable, Baseline gegen Modell, eine Grafik und die Grenzen | [Streamlit-Oberfläche](https://data-analytics-ws2627.github.io/website/project-description.html#streamlit-oberfläche), `app.py` in der Vorlage |
-| Bericht | `reports/report.ipynb`, in frischer Sitzung vollständig ausführbar | [Bericht](https://data-analytics-ws2627.github.io/website/project-description.html#bericht) |
-| Präsentation | Frage, Daten, Exploration, Modell und Bewertung, Schlussfolgerung | [Präsentation](https://data-analytics-ws2627.github.io/website/project-description.html#präsentation) |
-| Dokumentation KI-Einsatz | Übernommene Arbeitsschritte und ihre Prüfung | [Coding-Agenten im Projekt](https://data-analytics-ws2627.github.io/website/project-description.html#coding-agenten) |
+| Datenauswahl | Zwei mögliche Datensätze mit Quelle, Beobachtungseinheit, Variablen und einer konkreten Frage | [Datenauswahl](https://kirenz.github.io/data-analytics-ws2627/project-description.html#datenauswahl), [Datenquellen](https://kirenz.github.io/data-analytics-ws2627/project-tips-resources.html) |
+| Projektvorschlag | Einordnung, Daten, Analyseplan, Variablenverzeichnis | [Projektvorschlag](https://kirenz.github.io/data-analytics-ws2627/project-description.html#projektvorschlag) |
+| Analyseentwurf | Erste vollständige Analyse: Exploration, Trainings-/Testaufteilung, Baseline, lineares Modell, MAE und RMSE, vorläufiges Ergebnis | [Analyseentwurf](https://kirenz.github.io/data-analytics-ws2627/project-description.html#analyseentwurf) |
+| BPMN-Skizze (verbindlich) | Auslöser, Aufgaben, Zuständigkeiten, Prüfschritt durch eine Person, Rückweg bei ungeeigneten Daten; Abwägung feste Regeln, KI-Schritt oder Agent | [Prozessmodell](https://kirenz.github.io/data-analytics-ws2627/project-description.html#geschäftsprozess-und-prozessmodell), Arbeitsblatt `docs/prozessmodell.md` in der Vorlage |
+| Streamlit-Oberfläche (verbindlich) | Lokal startbar; zeigt Datenquelle, Zielvariable, Baseline gegen Modell, eine Grafik und die Grenzen | [Streamlit-Oberfläche](https://kirenz.github.io/data-analytics-ws2627/project-description.html#streamlit-oberfläche), `app.py` in der Vorlage |
+| Bericht | `reports/report.ipynb`, in frischer Sitzung vollständig ausführbar | [Bericht](https://kirenz.github.io/data-analytics-ws2627/project-description.html#bericht) |
+| Präsentation | Frage, Daten, Exploration, Modell und Bewertung, Schlussfolgerung | [Präsentation](https://kirenz.github.io/data-analytics-ws2627/project-description.html#präsentation) |
+| Dokumentation KI-Einsatz | Übernommene Arbeitsschritte und ihre Prüfung | [Coding-Agenten im Projekt](https://kirenz.github.io/data-analytics-ws2627/project-description.html#coding-agenten) |
 
 Ein eigener Agent (zum Beispiel mit Google ADK) ist eine freiwillige Erweiterung. Auch der begründete Verzicht auf einen Agenten ist ein vollständiges Ergebnis. Ein Modell ohne Vorteil gegenüber der Baseline ist verwertbar, wenn es sauber untersucht und erklärt ist.
 
@@ -102,7 +102,7 @@ Kontaktstudierende melden sich im Moodle-Kurs bis **29.11.2026** zur Prüfung an
 
 ## Themen und ihre Relevanz
 
-Die vollständige Materialliste mit Folien und Notebooks steht im [Kursplan](https://data-analytics-ws2627.github.io/website/). Die Spalte „Relevanz“ ordnet die Themen nach ihrem Beitrag zu Tests und Projekt.
+Die vollständige Materialliste mit Folien und Notebooks steht im [Kursplan](https://kirenz.github.io/data-analytics-ws2627/). Die Spalte „Relevanz“ ordnet die Themen nach ihrem Beitrag zu Tests und Projekt.
 
 | Thema | Wofür gebraucht | Relevanz |
 |---|---|---|
@@ -123,12 +123,12 @@ Die vollständige Materialliste mit Folien und Notebooks steht im [Kursplan](htt
 
 Wichtige Kursseiten:
 
-- [Kursplan](https://data-analytics-ws2627.github.io/website/) mit allen Folien, Buchabschnitten und Notebooks
-- [Python-Umgebung und Statistik-Labor](https://data-analytics-ws2627.github.io/website/programming-requirements.html)
+- [Kursplan](https://kirenz.github.io/data-analytics-ws2627/) mit allen Folien, Buchabschnitten und Notebooks
+- [Python-Umgebung und Statistik-Labor](https://kirenz.github.io/data-analytics-ws2627/programming-requirements.html)
 - [Agenten-Grundlagenkurs](https://kurse.kirenz.de/courses/agent-arbeitsumgebung)
-- [BPMN-Grundlagen](https://data-analytics-ws2627.github.io/website/bpmn.html)
-- [Coding-Agenten für Analyseaufträge](https://data-analytics-ws2627.github.io/website/coding-agents.html)
-- [Onlinebücher](https://data-analytics-ws2627.github.io/website/online-books.html)
+- [BPMN-Grundlagen](https://kirenz.github.io/data-analytics-ws2627/bpmn.html)
+- [Coding-Agenten für Analyseaufträge](https://kirenz.github.io/data-analytics-ws2627/coding-agents.html)
+- [Onlinebücher](https://kirenz.github.io/data-analytics-ws2627/online-books.html)
 
 Übungsvorlagen auf GitHub (Organisation `data-analytics-ws2627`): `statistik-lab`, `github-starter-course`, `ae-pandas`, `ae-models`, `project`. Jede Vorlage enthält eine README mit Startanleitung. Die Python-Vorlagen enthalten zusätzlich eine `AGENTS.md` mit Regeln für den Agenten; diese Regeln gelten im jeweiligen Ordner vorrangig.
 

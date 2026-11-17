@@ -31,8 +31,8 @@ website:
   page-navigation: true
   title: "Data Analytics with Generative AI"
   description: "Homepage for Data Analytics with Generative AI at HdM Stuttgart, WS 26/27."
-  site-url: "https://data-analytics-ws2627.github.io/website/"
-  repo-url: https://github.com/data-analytics-ws2627/website
+  site-url: "https://kirenz.github.io/data-analytics-ws2627/"
+  repo-url: https://github.com/kirenz/data-analytics-ws2627
   repo-actions: [edit, issue]
   open-graph: true
   image: "/images/logo.png"
@@ -62,8 +62,8 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/data-analytics-ws2627
-        text: "GitHub organization"
+        href: https://github.com/kirenz/data-analytics-ws2627
+        text: "GitHub"
       - icon: person-fill
         text: "Moodle"
         href: https://moodle.hdm-stuttgart.de/login/index.php
