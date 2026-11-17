@@ -60,7 +60,7 @@ Prüfkriterium: In Moodle erscheint für jeden Pflichttest ein abgegebener Versu
 
 ### 2. Teamprojekt: Regression mit Prozessmodell und Streamlit
 
-Vollständige Beschreibung: [Analyseprojekt](https://kirenz.github.io/data-analytics-ws2627/project-description.html). Vorbereitung in vier Schritten: [Projektvorbereitung](https://kirenz.github.io/data-analytics-ws2627/project-planning.html). Vorlage: [data-analytics-ws2627/project](https://github.com/data-analytics-ws2627/project) (GitHub-Template, eigene private Kopie anlegen).
+Vollständige Beschreibung: [Analyseprojekt](https://kirenz.github.io/data-analytics-ws2627/project-description.html). Vorbereitung in vier Schritten: [Projektvorbereitung](https://kirenz.github.io/data-analytics-ws2627/project-planning.html). Vorlage: [kirenz/project](https://github.com/kirenz/project) (GitHub-Template, eigene private Kopie anlegen).
 
 Kern: Eine quantitative Zielvariable wird mit einer Regression vorhergesagt. Die Vorhersage unterstützt eine Entscheidung in einem selbst gewählten Geschäftsprozess. Die Entscheidung trifft ein Mensch. Klassifikation gehört nicht zu den Projektanforderungen.
 
@@ -130,7 +130,7 @@ Wichtige Kursseiten:
 - [Coding-Agenten für Analyseaufträge](https://kirenz.github.io/data-analytics-ws2627/coding-agents.html)
 - [Onlinebücher](https://kirenz.github.io/data-analytics-ws2627/online-books.html)
 
-Übungsvorlagen auf GitHub (Organisation `data-analytics-ws2627`): `statistik-lab`, `github-starter-course`, `ae-pandas`, `ae-models`, `project`. Jede Vorlage enthält eine README mit Startanleitung. Die Python-Vorlagen enthalten zusätzlich eine `AGENTS.md` mit Regeln für den Agenten; diese Regeln gelten im jeweiligen Ordner vorrangig.
+Übungsvorlagen auf GitHub (Konto `kirenz`): `statistik-lab`, `github-starter-course`, `ae-pandas`, `ae-models`, `project`. Jede Vorlage enthält eine README mit Startanleitung. Die Python-Vorlagen enthalten zusätzlich eine `AGENTS.md` mit Regeln für den Agenten; diese Regeln gelten im jeweiligen Ordner vorrangig.
 
 ## Was nicht mehr gilt
 
@@ -138,7 +138,7 @@ Der Moodle-Kurs enthält noch Elemente aus früheren Durchläufen. Für diesen D
 
 - **Kein Peer Review.** Der Baustein „Peer Review Draft Analysis“ und die Gruppenzuweisung für das Peer Review entfallen.
 - **Keine Klassifikationspflicht im Projekt.** Fachlicher Kern ist ausschließlich die Regression.
-- **Kein GitHub Classroom.** Die Übungen liegen als Vorlagen in der Organisation `data-analytics-ws2627`.
+- **Kein GitHub Classroom.** Die Übungen liegen als öffentliche Vorlagen im GitHub-Konto `kirenz`.
 - **Alte Termine gelten nicht.** Fristen aus früheren Semestern (zum Beispiel Topic ideas Nov 15, Proposal Dec 01) sind keine Vorgaben für WS 2026/27.
 - **Gradio und Gemini** aus der früheren Präsenzphase sind keine Projektanforderung. Die Projektoberfläche ist Streamlit.
 

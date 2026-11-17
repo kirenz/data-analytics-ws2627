@@ -32,7 +32,7 @@ Lokales Beispiel im [Statistik-Labor](programming-requirements.qmd): `eda/eda-ne
 | First Data Analysis | [Buch](https://openintro-ims.netlify.app/data-hello.html#case-study-stents-strokes) | [PDF](https://docs.google.com/presentation/d/1YXoCWZv37c3u_cMBc3o2_IG_atDlGdLhCwin_Rciwck/export/pdf) · [Slides](https://docs.google.com/presentation/d/1YXoCWZv37c3u_cMBc3o2_IG_atDlGdLhCwin_Rciwck/preview){target="_blank" rel="noopener"} | [Code](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ae/1_netflix.ipynb "Python-Notebook öffnen") | Präsenz |
 | Data basics | [Buch](https://openintro-ims.netlify.app/data-hello.html#data-basics) | [PDF](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf) · [Slides](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/preview){target="_blank" rel="noopener"} |  | Präsenz |
 | How to obtain data |  | [PDF](https://docs.google.com/presentation/d/1zldRDAOqmjoJmY_D4-ZkWfhwaklt-UfAPKH4G5kmFVY/export/pdf) · [Slides](https://docs.google.com/presentation/d/1zldRDAOqmjoJmY_D4-ZkWfhwaklt-UfAPKH4G5kmFVY/preview){target="_blank" rel="noopener"} |  | Optional |
-| Data wrangling: Pandas lab | [Buch](https://pandas.pydata.org/docs/) | [Labor](https://kirenz.github.io/lab-pandas-intro) | [Code](https://github.com/data-analytics-ws2627/ae-pandas "Übungsvorlage auf GitHub öffnen") | Übung |
+| Data wrangling: Pandas lab | [Buch](https://pandas.pydata.org/docs/) | [Labor](https://kirenz.github.io/lab-pandas-intro) | [Code](https://github.com/kirenz/ae-pandas "Übungsvorlage auf GitHub öffnen") | Übung |
 | Data analysis: Survey lab |  | [Labor](https://kirenz.github.io/lab-survey) |  | Optional |
 
 ## Study Design
@@ -89,9 +89,9 @@ Ergänzend: [Introduction to Regression Models](https://kirenz.github.io/regress
 | Thema | Literatur | Folien / Materialien | Code | Arbeitsform |
 |---|---|---|---|---|
 | Correlation | [Buch](https://openintro-ims.netlify.app/model-slr.html#describing-linear-relationships-with-correlation) | [PDF](https://docs.google.com/presentation/d/1JyvtQBRiUhjncLki3ozy4SvvgwRqS7Gmj_vUpFokzzo/export/pdf) · [Slides](https://docs.google.com/presentation/d/1JyvtQBRiUhjncLki3ozy4SvvgwRqS7Gmj_vUpFokzzo/preview){target="_blank" rel="noopener"} | [Code](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-2-correlation.ipynb "Python-Notebook öffnen") | Präsenz |
-| Sales and ads |  | [PDF](https://docs.google.com/presentation/d/1q9o_PycjwItr-5PxotZFFzkwdqvo8fVskv_Y0H1CbxE/export/pdf) · [Slides](https://docs.google.com/presentation/d/1q9o_PycjwItr-5PxotZFFzkwdqvo8fVskv_Y0H1CbxE/preview){target="_blank" rel="noopener"} | [Code](https://github.com/data-analytics-ws2627/ae-models/blob/main/1_intro_sales.ipynb "Übungsvorlage auf GitHub öffnen") | Präsenz |
-| Mean squared error |  | [PDF](https://docs.google.com/presentation/d/1DnX0RnGCguOE2elQJFrcu2efZp6hjre7fsTrAfBJQTA/export/pdf) · [Slides](https://docs.google.com/presentation/d/1DnX0RnGCguOE2elQJFrcu2efZp6hjre7fsTrAfBJQTA/preview){target="_blank" rel="noopener"} | [Teil 1](https://github.com/data-analytics-ws2627/ae-models/blob/main/2_mse.ipynb "Übungsvorlage auf GitHub öffnen") · [Teil 2](https://github.com/data-analytics-ws2627/ae-models/blob/main/3_mse.ipynb "Übungsvorlage auf GitHub öffnen") · [Teil 3](https://github.com/data-analytics-ws2627/ae-models/blob/main/4_mse.ipynb "Übungsvorlage auf GitHub öffnen") | Übung |
-| Fitting a line and residuals | [Buch](https://openintro-ims.netlify.app/model-slr.html#fit-line-res-cor) | [PDF](https://docs.google.com/presentation/d/18xWbx5rkptYfOaqzpfIc7RD-LC9Y-Wgs_7tz9Z2a2hg/export/pdf) · [Slides](https://docs.google.com/presentation/d/18xWbx5rkptYfOaqzpfIc7RD-LC9Y-Wgs_7tz9Z2a2hg/preview){target="_blank" rel="noopener"} | [Code](https://github.com/data-analytics-ws2627/ae-models/blob/main/5_fitting.ipynb "Übungsvorlage auf GitHub öffnen") | Selbststudium |
+| Sales and ads |  | [PDF](https://docs.google.com/presentation/d/1q9o_PycjwItr-5PxotZFFzkwdqvo8fVskv_Y0H1CbxE/export/pdf) · [Slides](https://docs.google.com/presentation/d/1q9o_PycjwItr-5PxotZFFzkwdqvo8fVskv_Y0H1CbxE/preview){target="_blank" rel="noopener"} | [Code](https://github.com/kirenz/ae-models/blob/main/1_intro_sales.ipynb "Übungsvorlage auf GitHub öffnen") | Präsenz |
+| Mean squared error |  | [PDF](https://docs.google.com/presentation/d/1DnX0RnGCguOE2elQJFrcu2efZp6hjre7fsTrAfBJQTA/export/pdf) · [Slides](https://docs.google.com/presentation/d/1DnX0RnGCguOE2elQJFrcu2efZp6hjre7fsTrAfBJQTA/preview){target="_blank" rel="noopener"} | [Teil 1](https://github.com/kirenz/ae-models/blob/main/2_mse.ipynb "Übungsvorlage auf GitHub öffnen") · [Teil 2](https://github.com/kirenz/ae-models/blob/main/3_mse.ipynb "Übungsvorlage auf GitHub öffnen") · [Teil 3](https://github.com/kirenz/ae-models/blob/main/4_mse.ipynb "Übungsvorlage auf GitHub öffnen") | Übung |
+| Fitting a line and residuals | [Buch](https://openintro-ims.netlify.app/model-slr.html#fit-line-res-cor) | [PDF](https://docs.google.com/presentation/d/18xWbx5rkptYfOaqzpfIc7RD-LC9Y-Wgs_7tz9Z2a2hg/export/pdf) · [Slides](https://docs.google.com/presentation/d/18xWbx5rkptYfOaqzpfIc7RD-LC9Y-Wgs_7tz9Z2a2hg/preview){target="_blank" rel="noopener"} | [Code](https://github.com/kirenz/ae-models/blob/main/5_fitting.ipynb "Übungsvorlage auf GitHub öffnen") | Selbststudium |
 | Least squares regression | [Buch](https://openintro-ims.netlify.app/model-slr.html#least-squares-regression) | [PDF](https://docs.google.com/presentation/d/1jreIuC0fOiVPHt6CUNYb-Kb4uKogCeftBZP5Zum6jSQ/export/pdf) · [Slides](https://docs.google.com/presentation/d/1jreIuC0fOiVPHt6CUNYb-Kb4uKogCeftBZP5Zum6jSQ/preview){target="_blank" rel="noopener"} | [Code](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-3-least-squares.ipynb "Python-Notebook öffnen") | Selbststudium |
 | R squared | [Buch](https://openintro-ims.netlify.app/model-slr.html#r-squared) | [PDF](https://docs.google.com/presentation/d/1ZIijR7F877M9peDH2rhb3IO7dP6JGDd1ypz_C2pAyGI/export/pdf) · [Slides](https://docs.google.com/presentation/d/1ZIijR7F877M9peDH2rhb3IO7dP6JGDd1ypz_C2pAyGI/preview){target="_blank" rel="noopener"} | [Code](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-4-strength-fit.ipynb "Python-Notebook öffnen") | Präsenz |
 | Categorical predictors with two levels | [Buch](https://openintro-ims.netlify.app/model-slr.html#categorical-predictor-two-levels) | [PDF](https://docs.google.com/presentation/d/1Ca1pslYtl_bsPgY00JMhseV4klnU81AWw6s5Y8a15PA/export/pdf) · [Slides](https://docs.google.com/presentation/d/1Ca1pslYtl_bsPgY00JMhseV4klnU81AWw6s5Y8a15PA/preview){target="_blank" rel="noopener"} | [Code](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-5-categorical.ipynb "Python-Notebook öffnen") | Präsenz |
@@ -190,7 +190,7 @@ Lokales Beispiel im [Statistik-Labor](programming-requirements.qmd): `inferenz/i
 | Teilnehmer, Daten und Aufgabentypen | | [Zuständigkeiten und Daten](bpmn.qmd#bpmn-teilnehmer-daten) | | Selbststudium und Übung |
 | Analyseworkflow | | [Vom Lifecycle zum Workflow](bpmn.qmd#bpmn-analyseworkflow) | | Präsenz und Übung |
 | Einen Analyseprozess modellieren | | [Lifecycle-Übung](bpmn.qmd#bpmn-analyseauftrag) | | Übung |
-| Analyseauftrag an einen Coding-Agenten und Gegenprüfung | | [Coding-Agenten für Analyseaufträge](coding-agents.qmd) | [Statistik-Labor](https://github.com/data-analytics-ws2627/statistik-lab "Übungsvorlage auf GitHub öffnen") | Präsenz und Übung |
+| Analyseauftrag an einen Coding-Agenten und Gegenprüfung | | [Coding-Agenten für Analyseaufträge](coding-agents.qmd) | [Statistik-Labor](https://github.com/kirenz/statistik-lab "Übungsvorlage auf GitHub öffnen") | Präsenz und Übung |
 
 ## Agents mit Google ADK
 
@@ -210,14 +210,14 @@ Die Analysen laufen lokal mit uv und Jupyter Lab. Ein Coding-Agent arbeitet im s
 
 Die Regeln für den Agenten stehen jeweils in der `AGENTS.md` des Projektordners. Die geltenden Vorgaben zum KI-Einsatz in Prüfungsleistungen stehen im Moodle-Kurs.
 
-Die Vorlagen liefern eine eigene Arbeitskopie mit Aufgaben und Startanleitung. Zugriff erfolgt über das für den Kurs freigeschaltete GitHub-Konto.
+Die Vorlagen liefern eine eigene Arbeitskopie mit Aufgaben und Startanleitung. Sie sind öffentlich; für eine eigene Kopie genügt ein GitHub-Konto.
 
 | Vorlage | Verwendung |
 |---|---|
-| [Statistik-Labor](https://github.com/data-analytics-ws2627/statistik-lab) | Erklärte Beispiele zu Exploration, Inferenz und Modellprüfung; Einrichtung unter [Python-Umgebung](programming-requirements.qmd) |
-| [GitHub-Einstieg](https://github.com/data-analytics-ws2627/github-starter-course) | Branch, Commit und Pull Request kennenlernen |
-| [Pandas-Übungen](https://github.com/data-analytics-ws2627/ae-pandas) | Daten einlesen, aufbereiten und untersuchen |
-| [Modellübungen](https://github.com/data-analytics-ws2627/ae-models) | Vorhersagen, Fehlermaße und Regression nachvollziehen |
-| [Projektvorlage](https://github.com/data-analytics-ws2627/project) | Eigene Analyse strukturiert entwickeln und dokumentieren |
+| [Statistik-Labor](https://github.com/kirenz/statistik-lab) | Erklärte Beispiele zu Exploration, Inferenz und Modellprüfung; Einrichtung unter [Python-Umgebung](programming-requirements.qmd) |
+| [GitHub-Einstieg](https://github.com/kirenz/github-starter-course) | Branch, Commit und Pull Request kennenlernen |
+| [Pandas-Übungen](https://github.com/kirenz/ae-pandas) | Daten einlesen, aufbereiten und untersuchen |
+| [Modellübungen](https://github.com/kirenz/ae-models) | Vorhersagen, Fehlermaße und Regression nachvollziehen |
+| [Projektvorlage](https://github.com/kirenz/project) | Eigene Analyse strukturiert entwickeln und dokumentieren |
 
 Die Python-Vorlagen enthalten jeweils ihre eigene uv-Umgebung. Die Startschritte stehen in der README der Arbeitskopie. Aufgabenstellen in den Übungsnotebooks bleiben zur eigenen Bearbeitung offen.

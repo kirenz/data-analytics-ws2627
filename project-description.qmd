@@ -80,7 +80,7 @@ Ein Regressionsmodell benötigt kein Sprachmodell als Hülle. Ein fest programmi
 
 Eine einfache [Streamlit](https://streamlit.io/)-Anwendung macht die Analyse zugänglich. Sie ist ein verbindlicher Bestandteil des Projekts. Sie startet den festgelegten Analyseablauf oder zeigt dessen eindeutig bezeichnete Ergebnisse. Sichtbar sind Datenquelle, Zielvariable, der Vergleich von Baseline und Modell, eine passende Grafik und die wesentlichen Grenzen. Ungültige Eingaben führen zu einer verständlichen Meldung.
 
-Ein lokaler Start genügt. Die [Projektvorlage](https://github.com/data-analytics-ws2627/project) enthält ein lauffähiges Beispiel mit synthetischen Daten als Ausgangspunkt. Analysecode und Oberfläche bleiben getrennt, sodass derselbe Ablauf auch ohne Oberfläche reproduzierbar läuft. Die Oberfläche trifft keine Entscheidung. Ein Agent, etwa mit [Google ADK](agents.qmd), ist eine mögliche Erweiterung und keine Voraussetzung.
+Ein lokaler Start genügt. Die [Projektvorlage](https://github.com/kirenz/project) enthält ein lauffähiges Beispiel mit synthetischen Daten als Ausgangspunkt. Analysecode und Oberfläche bleiben getrennt, sodass derselbe Ablauf auch ohne Oberfläche reproduzierbar läuft. Die Oberfläche trifft keine Entscheidung. Ein Agent, etwa mit [Google ADK](agents.qmd), ist eine mögliche Erweiterung und keine Voraussetzung.
 
 ## Coding-Agenten
 
