@@ -4,9 +4,9 @@ title: "Analyseprojekt"
 
 ## Fragestellung und Daten
 
-Das Teamprojekt untersucht eine eigene Fragestellung mit den Methoden des Kurses. Fachlicher Kern ist eine Regression: Eine quantitative Zielvariable wird vorhergesagt, und die Vorhersage unterstützt eine Entscheidung in einem selbst gewählten Geschäftsprozess. Klassifikation bleibt ein Thema des Kurses, gehört aber nicht zu den Anforderungen des Projekts.
+Das Projekt wird einzeln bearbeitet und untersucht eine eigene Fragestellung mit den Methoden des Kurses. Fachlicher Kern ist eine Regression: Eine quantitative Zielvariable wird vorhergesagt, und die Vorhersage unterstützt eine Entscheidung in einem selbst gewählten Geschäftsprozess. Klassifikation bleibt ein Thema des Kurses, gehört aber nicht zu den Anforderungen des Projekts.
 
-Alle Analysen entstehen in Python. Datenaufbereitung, Modellierung und Bericht müssen aus den dokumentierten Ausgangsdaten reproduzierbar sein. Die einzelnen Beiträge zum Projekt werden durch nachvollziehbare Commits im gemeinsamen GitHub-Repository festgehalten.
+Alle Analysen entstehen in Python. Datenaufbereitung, Modellierung und Bericht müssen aus den dokumentierten Ausgangsdaten reproduzierbar sein. Der Arbeitsverlauf wird durch nachvollziehbare Commits im eigenen GitHub-Repository festgehalten.
 
 Termine, Abgabeformate und Bewertung stehen im aktuellen [Moodle-Kurs](https://moodle.hdm-stuttgart.de/login/index.php).
 

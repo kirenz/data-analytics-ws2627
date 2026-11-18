@@ -47,7 +47,7 @@ Für die Modellierung ergänzen folgende Bücher die Kursunterlagen:
 
 ## Übungen, Prüfungen und Projekt
 
-Anwendungsübungen verbinden die erklärten Konzepte mit Python-Code. Die Aufgaben werden einzeln bearbeitet. Das [Teamprojekt](project-description.qmd) untersucht eine eigene datenbezogene Fragestellung und dokumentiert die Analyse reproduzierbar.
+Anwendungsübungen verbinden die erklärten Konzepte mit Python-Code. Die Aufgaben werden einzeln bearbeitet. Das [Projekt](project-description.qmd) untersucht eine eigene datenbezogene Fragestellung und dokumentiert die Analyse reproduzierbar.
 
 Termine, Abgaben, Prüfungsform, zugelassene Hilfsmittel und Bewertung richten sich nach den Angaben im aktuellen [Moodle-Kurs](https://moodle.hdm-stuttgart.de/login/index.php). Das gilt auch für den zulässigen KI-Einsatz in Prüfungsleistungen.
 
