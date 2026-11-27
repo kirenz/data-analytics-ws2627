@@ -8,7 +8,7 @@ Ein geeigneter Datensatz enthält mehr als interessante Werte. Für die Analyse 
 
 Statistische Ämter und internationale Organisationen stellen Daten mit Beschreibungen zur Erhebung bereit:
 
-- [Statistisches Bundesamt: GENESIS-Online](https://www-genesis.destatis.de/genesis/online/)
+- [Statistisches Bundesamt: GENESIS-Online](https://genesis.destatis.de/)
 - [Regionalstatistik](https://www.regionalstatistik.de/genesis/online/)
 - [GovData](https://www.govdata.de/)
 - [Europäisches Datenportal](https://data.europa.eu/)
